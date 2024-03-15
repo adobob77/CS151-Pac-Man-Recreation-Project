@@ -1,3 +1,4 @@
+<pre>
 # CS151-Pac-Man-Recreation-Project
 
 PROJECT PROPOSAL
@@ -41,3 +42,4 @@ Operations
 
 References:
 	[1]: https://en.wikipedia.org/wiki/Pac-Man
+</pre>

@@ -40,4 +40,4 @@ Operations
 	Joseph: Pacman movement or UI
 
 References:
-	[^1]: https://en.wikipedia.org/wiki/Pac-Man
+	[1]: https://en.wikipedia.org/wiki/Pac-Man

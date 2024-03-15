@@ -11,13 +11,12 @@ Description: A recreation of the original Pac-Man[1] arcade game
 Problem to Solve: Many arcade games in the past weren’t playable on modern devices, since they were only used in arcades.
 Solution: Designing and creating a functioning playable arcade game, so that a user wouldn’t have to seek out an arcade to play an old arcade game.
 
-describe assumptions / operating environments / intended usage :
-Project assumes basic familiarity with arcade games and their basic mechanics
+describe assumptions / operating environments / intended usage:
+Project assumes basic familiarity with arcade games and their basic mechanics.
 The expected operating system is Windows 10/11.
 It’s intended for users to be able to play the game. Arrow keys are used for movement control, and no other controls are required.
 
 High-Level Description of the Solution:
-	Classes:
 -Maze: Maze object, holds positions of all characters within the maze. Controls events within the maze, mostly regarding a “game clear” state and the timed release of ghosts from the center “jail”.
 -PacMan: Player character. Moves around the maze, and is intended to collect all pellets and avoid ghosts.
 -Ghost (abstract): Abstract class intended to be a blueprint for unique ghost ai
@@ -41,4 +40,4 @@ Operations
 	Joseph: Pacman movement or UI
 
 References:
-	[1]: https://en.wikipedia.org/wiki/Pac-Man
+	[^1]: https://en.wikipedia.org/wiki/Pac-Man

@@ -43,3 +43,8 @@ Operations
 References:
 	[1]: https://en.wikipedia.org/wiki/Pac-Man
 </pre>
+
+
+Uniqueness and what makes us stand out from our competition:
+
+Our Pac-Man recreation stands out due to its customization options. Unlike other versions, our game allows players to customize various aspects such as difficulty levels, ghost behavior, items, mazes, and more. This level of customization adds a unique and personalized touch to the gameplay. Which makes it more engaging and enjoyable for players, wanting to play pac-man. 
